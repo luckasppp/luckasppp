@@ -42,7 +42,11 @@
 <br>
 </br>
 
-![snake gif](https://github.com/luckasppp/luckasppp/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luckasppp/luckasppp/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luckasppp/luckasppp/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/luckasppp/luckasppp/output/github-contribution-grid-snake.svg">
+</picture>
 
 Social Links
 <p align="left" style="background:yellow">
