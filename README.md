@@ -25,7 +25,7 @@
 <p>💼&nbsp;&nbsp;&nbsp;&nbsp;I work at Tata Consultancy Services</p>
 <p>📚&nbsp;&nbsp;&nbsp;&nbsp;I am currently studying Information Systems at FeMASS</p>
 <p>🍵&nbsp;&nbsp;&nbsp;&nbsp;Studying Java and Spring Boot currently.</p>
-<p>🛠️&nbsp;&nbsp;&nbsp;&nbsp;Tech Stack! </p>
+<p>🛠️&nbsp;&nbsp;&nbsp;&nbsp;Tech Stack: </p>
 
 ![Java](https://img.shields.io/badge/-🍵&nbsp;Java%20-05122A?style=flat&logo=java&logoColor=white&logoWidth=20)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot&logoColor=white)&nbsp;
@@ -38,16 +38,7 @@
 
 ##
 
-  <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luckasppp&show_icons=true&theme=gruvbox) -->
-
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png" alt="Spring Boot"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" alt="PHP"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-
-<div class="flex-container">
+<div align="center">
   <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luckasppp&hide=shell,ruby&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
   <a href="https://github.com/anuraghazra/convoychat">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckasppp&hide=shell,ruby&layout=compact&theme=dark&langs_count=8&card_width=250"></a>
@@ -91,12 +82,11 @@
 <!-- -   PHP:
 	- <a href="https://github.com/juniorjrml/bootcamp-laravel">Bootcamp Laravel</a> -->
  
-<!--
-**Projetos Pessoais**
-- [Jogo da Velha](https://github.com/juniorjrml/jogo_da_velha "Jogo da Velha")
-- [Calculadora Albion](https://github.com/juniorjrml/Albion_Calculadora "Calculadora Albion")
-- [Sistema de Administração de RSS](https://github.com/juniorjrml/SARSS "SARSS")
 
+**Personal Projects**<br>
+> <b>`Under Construction...`</b>
+
+<!--
 **Projetos Profissionais**
 - [Sucata] Sistema web desenvolvido em php (codeigniter 4 e MySQL) para auxiliar o processo de sucateamento mantendo status de cada etapa do processo(conta com processamento de planilhas).
 - [Preserva] Sistema web desenvolvido em php (codeigniter 4 e MySQL) utilizado para registrar e controlar o processo de preservação, tirando foto antes e depois da preservação e gerando relatórios e informando o prazo para cada preservação.
