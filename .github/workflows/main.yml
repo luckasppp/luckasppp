@@ -1,4 +1,4 @@
-name: Generate Snake Game
+name: Generate Snake Animation
 
 on:
   # run automatically every 24 hours
@@ -11,7 +11,9 @@ on:
   # run on every push on the master branch
   push:
     branches:
-    - master  
+    - master
+    
+  
 
 jobs:
   generate:
