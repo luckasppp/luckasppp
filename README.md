@@ -57,7 +57,7 @@ Social Links
 <a href="https://www.linkedin.com/in/lucas-damasceno-655211232/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-eduardo-258821181/" /></a>
 
-<a href="https://discordapp.com/users/luckasd_" alt="Discord">
+<a href="https://discordapp.com/users/504744382201856040" alt="Discord">
   <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=Discord&logoColor=white" /></a>
 
 <a href="mailto:lucas_sacul12@hotmail.com" onclick="this.href = this.href.replace('mailto:', '');"> 
