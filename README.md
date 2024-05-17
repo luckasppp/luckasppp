@@ -10,7 +10,7 @@
 <p>◾  🍵&nbsp;&nbsp;&nbsp;&nbsp;Studying Java and Spring Boot currently.</p>
 <p>◾  🛠️&nbsp;&nbsp;&nbsp;&nbsp;Tech Stack! </p>
 
-![Java](https://img.shields.io/badge/-🍵Java%20-05122A?style=flat&logo=java&logoColor=white&logoWidth=20)&nbsp;
+![Java](https://img.shields.io/badge/-🍵&nbsp;Java%20-05122A?style=flat&logo=java&logoColor=white&logoWidth=20)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
