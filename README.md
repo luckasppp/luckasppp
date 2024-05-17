@@ -47,16 +47,17 @@
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 
-<div align="center">
+<div class="flex-container">
   <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luckasppp&hide=shell,ruby&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
   <a href="https://github.com/anuraghazra/convoychat">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckasppp&hide=shell,ruby&layout=compact&theme=dark&langs_count=8&card_width=250"></a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=luckasppp&show_icons=true&theme=dark"></a>
+</div>
 
-  <br>
-  </br>
+<br></br>
   
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luckasppp/luckasppp/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luckasppp/luckasppp/output/github-contribution-grid-snake.svg">
@@ -103,11 +104,3 @@
 - [Consolida] Sistema web desenvolvido em php (Laravel e MySQL)  que mantém a e visualização de estado da preparação de carga.
 
 -->
-
-
-
-
-
-
-
-
