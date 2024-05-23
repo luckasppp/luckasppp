@@ -61,9 +61,9 @@
 <!-- Iformation -->
 **Studying the technologies:**
 > <b>`Java:`</b>
->	- [Courses](https://github.com/luckasppp/luckasppp/blob/main/javaCourses.md)
-	<!-- - <a href="https://github.com/juniorjrml/juniorjrml/blob/main/ML.md">Machine Learning</a>
-	- <a href="https://github.com/juniorjrml/juniorjrml/blob/main/python.md">Core</a> -->
+>	- [Courses](https://github.com/luckasppp/luckasppp/blob/main/javaCourses.md)</br>
+>	- [Projects](https://github.com/luckasppp/luckasppp/blob/main/javaProjects.md)</br>
+	<!-- - <a href="https://github.com/juniorjrml/juniorjrml/blob/main/python.md">Core</a> -->
 
 <br>
 
