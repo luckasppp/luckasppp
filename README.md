@@ -94,3 +94,5 @@
 - [Consolida] Sistema web desenvolvido em php (Laravel e MySQL)  que mantém a e visualização de estado da preparação de carga.
 
 -->
+
+[Site para Criar README](https://readme.so/pt/editor)
