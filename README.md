@@ -22,7 +22,7 @@
 -->
 
 <p>🔥&nbsp;&nbsp;&nbsp;&nbsp;Back-end/Java/Web Developer. <!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode"></p> -->
-<p>💼&nbsp;&nbsp;&nbsp;&nbsp;I work at AMSOUZA</p>
+<p>💼&nbsp;&nbsp;&nbsp;&nbsp;I work at VINCI ENERGIES</p>
 <p>📚&nbsp;&nbsp;&nbsp;&nbsp;I am currently studying Information Systems at FeMASS</p>
 <p>🍵&nbsp;&nbsp;&nbsp;&nbsp;Studying Java and Spring Boot currently.</p>
 <p>🛠️&nbsp;&nbsp;&nbsp;&nbsp;Tech Stack: </p>
